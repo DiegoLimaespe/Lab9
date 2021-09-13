@@ -10,9 +10,9 @@ __1. Objetivos__
 *Objetivos Específicos*
 
 * Usar correctamente las transformaciones de rectangulares a polares y viceversa.
-* 
+
 * Aplicar las operaciones básicas con números complejos.
-* 
+
 *	Aplicar las operaciones básicas con números es su forma polar.
 
 
