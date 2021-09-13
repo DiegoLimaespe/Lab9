@@ -18,9 +18,11 @@ __2. Marco Teórico__
 
 __3. Procedimiento__
 
+1.	Transformar a su forma polar.
+
 ![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/a.1.jpg)
 
-
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/1.b.jpg)
 
 __5. Video__
 
