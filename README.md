@@ -19,7 +19,7 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
-![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/.jpg)
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/mc.jpg)
 
 
 __3. Procedimiento__
