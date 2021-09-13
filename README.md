@@ -91,7 +91,7 @@ __5. Video__
 __6. Coclusiones__ 
 
 *	Un número complejo puede ser representado de dos formas: rectangulares, el cual tiene la forma de a+jb, donde j es la parte imaginaria. Y polares los cuales tiene la forma r ∠θ, donde r es el radio y theta el ángulo. Todas estas transformaciones son posibles por formulas provenientes del teorema de Pitágoras.
-*	
+
 *	La suma y resta en complejos se da sumando/restando la parte real con la real y la imaginaria con la imaginaria, mientras que la multiplicación y división, son similares a la tradicional cambiando que se requiere de artificios matemáticos propios de los números complejos.
 
 *	Las operaciones en forma polar son muchas más fáciles que en forma rectangular, en la suma y resta se hace  sumando/restando radios con radios y ángulo con ángulos, mientras que en la multiplicación se multiplican los radios y se suman los ángulos y por último, la división, se dividen los radios y se resta los ángulos.
