@@ -24,6 +24,7 @@ __3. Procedimiento__
 
 ![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/1.b.jpg)
 
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/d.1.jpg)
 __5. Video__
 
 * https://youtu.be/yP9kI4oUUwI
