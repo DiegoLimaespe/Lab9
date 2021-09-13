@@ -40,6 +40,26 @@ __3. Procedimiento__
 
 ![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/d.2.jpg)
 
+3.	Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/a.3.jpg)
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/b.3.jpg)
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c.3.jpg)
+
+4.	Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+Literal 1
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c1a.jpg)
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c1b.jpg)
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c1c.jpg)
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c1d.jpg)
+
 __5. Video__
 
 * https://youtu.be/yP9kI4oUUwI
