@@ -29,6 +29,17 @@ __3. Procedimiento__
 ![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/d.1.jpg)
 
 
+2.	Transforma a su forma rectangular 
+
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/a.2.jpg)
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/b.2.jpg)
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c.2.jpg)
+
+![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/d.2.jpg)
+
 __5. Video__
 
 * https://youtu.be/yP9kI4oUUwI
