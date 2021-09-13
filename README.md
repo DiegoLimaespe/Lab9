@@ -60,7 +60,7 @@ Literal 1
 
 ![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c1d.jpg)
 
-Literal 2
+* Literal 2
 
 ![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c2a.jpg)
 
@@ -70,7 +70,7 @@ Literal 2
 
 ![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c2d.jpg)
 
-Literal 3
+* Literal 3
 
 ![](https://github.com/DiegoLimaespe/fotos-lab9/blob/main/c3a.jpg)
 
